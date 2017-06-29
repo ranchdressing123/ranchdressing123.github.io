@@ -5,10 +5,14 @@ img {
 
 body {
     text-align: center;
+    background-color: yellow
 }
 
 body {
     text-align: center;
     font-family: "Arial";
     
+}
+ul{
+    color: blue;
 }
